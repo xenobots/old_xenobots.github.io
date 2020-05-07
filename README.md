@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "0; url = https://cdorgs.github.io" />
+      <title>xenobots</title>
+      <meta http-equiv = "refresh" content = "2; url = https://cdorgs.github.io" />
    </head>
    <body>
-      <p>Redirecting to cdorgs.github.io</p>
+      <p>xenobots are a kind of computer-designed organism</p>
    </body>
 </html>
